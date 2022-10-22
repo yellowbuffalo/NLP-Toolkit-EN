@@ -4,7 +4,7 @@ A python class to hadle with NLP(Natural language processing) related tasks(incl
 * Using following to build environment
   ```console
   user@bar:~$ python3 -m venv nlpenv
-  user@bar:~$ source tutorial-env/bin/activate
+  user@bar:~$ source nlpenv/bin/activate
   user@bar:~$ pip3 install -r requirements.txt
   user@bar:~$ python3 main.py
   ```
