@@ -1,4 +1,4 @@
-# NLP-Toolkit-EN
+# nlp-toolkit-en
 A python class to hadle with NLP(Natural language processing) related tasks(including word segmenting,lemmatization, stopwords clean). Design by using python NLTK(Natural Language Toolkit) and gensim, and can be used by calling the "nlp" class to fulfill the task.
 ## Usage:
 * Using following to build environment
